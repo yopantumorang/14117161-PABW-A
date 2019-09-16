@@ -1,0 +1,40 @@
+.box {
+    width: 1347px;
+    height: 40px;
+    background-color: rgb(73, 158, 126);
+}
+
+.teks {
+    color: aliceblue;
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+.box1 {
+    width: 1347px;
+    height: 250px;
+    background-color: rgb(65, 59, 52);
+}
+
+.teks1 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-style: unset;
+}
+
+.teks2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+.teks3 {
+    color: rgb(36, 27, 27);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-style: oblique;
+}
