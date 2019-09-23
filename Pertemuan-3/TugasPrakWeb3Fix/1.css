@@ -1,0 +1,182 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
+
+body {
+    background: rgb(26, 23, 23);
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+    text-align: center;
+    color: #ffffff;
+}
+
+header .judul {
+    font-size: 20pt;
+    font-style: oblique;
+}
+
+
+.all {
+    width: 950px;
+
+    margin: auto;
+}
+
+.box ul {
+    border-radius: 20px;
+    overflow: visible;
+    color: #fff;
+    list-style: none;
+    float: right;
+    padding: 0;
+    width: 618px;
+    margin: 0 0 0;
+    background: #1b2c5c;
+}
+
+.box ul li {
+    margin: 0;
+    float: right;
+}
+
+.box ul a {
+    border-radius: 20px;
+    padding: 25px;
+    display: block;
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 0.5s ease;
+    text-decoration: none;
+}
+
+.box ul a:hover {
+    text-decoration: underline;
+    background: #3a665d;
+}
+
+.box2 {
+    background: #3b7468;
+    border-radius: 20px;
+    float: right;
+    opacity: 150;
+    padding: 0;
+    margin-top: 20px;
+    width: 618px;
+    height: 250px;
+}
+
+.img {
+    text-align: center;
+    padding: 10px;
+}
+
+.box2 .teks2 {
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 18px;
+}
+
+.box2 .teks3 {
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+.box3 {
+    background: rgb(38, 38, 77);
+    border-radius: 20px;
+    float: right;
+    padding: 0;
+    margin-top: 20px;
+    width: 618px;
+    height: 150px;
+}
+
+.box3 .teks2 {
+    color: rgb(235, 241, 240);
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.box3 .teks3 {
+    color: white;
+    text-align: left;
+    font-style: oblique;
+    font-size: 15px;
+}
+
+.isi {
+    float: right;
+}
+
+.footer {
+    height: 30px;
+    line-height: 20px;
+    background-color: rgb(56, 114, 92);
+    color: #fff;
+    position: absolute;
+    bottom: 0px;
+    width: 80%;
+}
+
+aside {
+    margin-top: 30px;
+    border-radius: 20px;
+    float: left;
+    width: 250px;
+    height: 300px;
+    background: #fff;
+}
+
+.teks6 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.teks7 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 15px;
+}
+
+.boxts2 {
+    background: #3b7468;
+    border-radius: 20px;
+    float: right;
+    opacity: 150;
+    padding: 0;
+    margin-top: 20px;
+    width: 615px;
+    height: 420px;
+}
+
+.teksts7 {
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+
+.teksts8 {
+    color: white;
+    font-size: 15px;
+    font-style: oblique;
+    text-align: center;
+}
+
+.boxts2 img {
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 50%;
+    margn padding: 10px;
+
+}
